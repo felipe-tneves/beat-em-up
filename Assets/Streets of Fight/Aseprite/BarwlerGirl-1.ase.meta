@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: 900f665bb2130984fb5882dca0bf8c9b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: BarwlerGirl-1_Frame_0
+    originalName: 
+    pivot: {x: 0.625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 109
+      width: 24
+      height: 46
+    spriteID: bac5ff179f1de254ca4a303de544b0c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 109}
+  - name: BarwlerGirl-1_Frame_1
+    originalName: 
+    pivot: {x: 0.625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 323
+      width: 24
+      height: 45
+    spriteID: f3a8861154aac2a4ab92b1f84b20d848
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 323}
+  - name: BarwlerGirl-1_Frame_2
+    originalName: 
+    pivot: {x: 0.6399999, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 271
+      width: 25
+      height: 44
+    spriteID: ed3d12565d594d146ab2bae2e90b013b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 271}
+  - name: BarwlerGirl-1_Frame_3
+    originalName: 
+    pivot: {x: 0.625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 376
+      width: 24
+      height: 45
+    spriteID: 71d264aea0abf714aad1b409403ced85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 376}
+  - name: BarwlerGirl-1_Frame_4
+    originalName: 
+    pivot: {x: 0.50000006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 429
+      width: 22
+      height: 46
+    spriteID: d1a6f7a69c066164fbcc1ccebbaacb73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 429}
+  - name: BarwlerGirl-1_Frame_5
+    originalName: 
+    pivot: {x: 0.5263157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 281
+      width: 19
+      height: 46
+    spriteID: 333c3e948c21daf4899d1f49d6f9b9b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 281}
+  - name: BarwlerGirl-1_Frame_6
+    originalName: 
+    pivot: {x: 0.64285713, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 383
+      width: 14
+      height: 46
+    spriteID: 446d3ac2f75cedc4b9db1166b6efa6a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 383}
+  - name: BarwlerGirl-1_Frame_7
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 112
+      width: 17
+      height: 47
+    spriteID: 445cd37a72c889348835ac1e6ee9f3e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 112}
+  - name: BarwlerGirl-1_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 57
+      width: 18
+      height: 47
+    spriteID: 23c73294484f42d428afa9ecc6cfd60a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 57}
+  - name: BarwlerGirl-1_Frame_9
+    originalName: 
+    pivot: {x: 0.45833337, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 163
+      width: 24
+      height: 46
+    spriteID: 3057c0d38508f494f9b2f23c8b799e48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 163}
+  - name: BarwlerGirl-1_Frame_10
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 222
+      width: 17
+      height: 46
+    spriteID: 8a906838ffc44c54fbea78e9fbead1da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 222}
+  - name: BarwlerGirl-1_Frame_11
+    originalName: 
+    pivot: {x: 0.64285713, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 437
+      width: 14
+      height: 46
+    spriteID: b214363a4648b704b81d08e9621a1c05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 437}
+  - name: BarwlerGirl-1_Frame_12
+    originalName: 
+    pivot: {x: 0.57142866, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 328
+      width: 14
+      height: 47
+    spriteID: 2052e10d40eeefd4dbdbe44c94927f3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 328}
+  - name: BarwlerGirl-1_Frame_13
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 167
+      width: 17
+      height: 47
+    spriteID: 5c8cf9bda05bad74f8f9f6a5fe4e007c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 167}
+  - name: BarwlerGirl-1_Frame_14
+    originalName: 
+    pivot: {x: 0.625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 217
+      width: 24
+      height: 46
+    spriteID: 04f1e462adafe01428e2b4521fa2c62d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 217}
+  - name: BarwlerGirl-1_Frame_15
+    originalName: 
+    pivot: {x: 0.8636364, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 141
+      width: 22
+      height: 43
+    spriteID: 4f3854f942e49a640a7398628a70f3e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 141}
+  - name: BarwlerGirl-1_Frame_16
+    originalName: 
+    pivot: {x: 0.8666666, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 441
+      width: 30
+      height: 41
+    spriteID: d6ac114fc03ebe641950d5b9bfae4499
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 441}
+  - name: BarwlerGirl-1_Frame_17
+    originalName: 
+    pivot: {x: 0.375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 212
+      width: 48
+      height: 38
+    spriteID: 5bfdb4c48b880e34094fe531087ceaf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 212}
+  - name: BarwlerGirl-1_Frame_18
+    originalName: 
+    pivot: {x: 0.39024386, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 354
+      width: 41
+      height: 38
+    spriteID: be427d1d4ea2e3e45bceb3b783e3398e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 354}
+  - name: BarwlerGirl-1_Frame_19
+    originalName: 
+    pivot: {x: 0.5769231, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 56
+      width: 26
+      height: 45
+    spriteID: 20dcbe511e145fa469becebc4f16377a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 56}
+  - name: BarwlerGirl-1_Frame_20
+    originalName: 
+    pivot: {x: 0.31999996, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 50
+      height: 45
+    spriteID: 41058ecfd42980c4596305013c7fd3c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: BarwlerGirl-1_Frame_21
+    originalName: 
+    pivot: {x: 0.35555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 57
+      width: 45
+      height: 45
+    spriteID: f805bda173267df429e142ef83f3295c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 57}
+  - name: BarwlerGirl-1_Frame_22
+    originalName: 
+    pivot: {x: 0.48148146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 4
+      width: 27
+      height: 44
+    spriteID: ebec73f1e985e024a8af734c6b6e424f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 4}
+  - name: BarwlerGirl-1_Frame_23
+    originalName: 
+    pivot: {x: 0.21739128, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 110
+      width: 46
+      height: 43
+    spriteID: 970082a09249a734392a91d5362f8995
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 110}
+  - name: BarwlerGirl-1_Frame_24
+    originalName: 
+    pivot: {x: 0.23255813, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 161
+      width: 43
+      height: 43
+    spriteID: e76a37de5ff39dd43aa878fcbbfa7663
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 161}
+  - name: BarwlerGirl-1_Frame_25
+    originalName: 
+    pivot: {x: 0.6363637, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 335
+      width: 22
+      height: 39
+    spriteID: 07b537049fa33e44a8435f3aebd93404
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 335}
+  - name: BarwlerGirl-1_Frame_26
+    originalName: 
+    pivot: {x: 0.68750006, y: -0.022727273}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 276
+      width: 16
+      height: 44
+    spriteID: 7b26edf262921994dbc03b78cf331da1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 276}
+  - name: BarwlerGirl-1_Frame_27
+    originalName: 
+    pivot: {x: 0.73684216, y: -0.022222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 4
+      width: 19
+      height: 45
+    spriteID: 9fe4837eb17b8a24b98bdbc3fdbbf30b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 4}
+  - name: BarwlerGirl-1_Frame_28
+    originalName: 
+    pivot: {x: 0.7307692, y: -0.3030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 382
+      width: 26
+      height: 33
+    spriteID: 6c6957c6609e4d14a8544a7484ab0e4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 382}
+  - name: BarwlerGirl-1_Frame_29
+    originalName: 
+    pivot: {x: 0.7307692, y: -0.3030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 423
+      width: 26
+      height: 33
+    spriteID: b0ef04eefb13de240ba943e908c56071
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 423}
+  - name: BarwlerGirl-1_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: -0.23684211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 192
+      width: 24
+      height: 38
+    spriteID: e86cdb278863b774a876c79bab431a57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 192}
+  - name: BarwlerGirl-1_Frame_31
+    originalName: 
+    pivot: {x: 0.42307696, y: -0.25714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 238
+      width: 26
+      height: 35
+    spriteID: 7da6a42317b194d4b80611b5c3500568
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 238}
+  - name: BarwlerGirl-1_Frame_32
+    originalName: 
+    pivot: {x: 0.24489796, y: -0.40625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 314
+      width: 49
+      height: 32
+    spriteID: 54fbdd4a6c996d6468b2be734518b5a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 314}
+  - name: BarwlerGirl-1_Frame_33
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.3939394}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 400
+      width: 42
+      height: 33
+    spriteID: 0e42785bcd773c9459ecf26165639fe7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 400}
+  - name: BarwlerGirl-1_Frame_34
+    originalName: 
+    pivot: {x: 0.7307692, y: -0.3030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 464
+      width: 26
+      height: 33
+    spriteID: 0f419fc4e72ab4a45bc4e84cda74b881
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 464}
+  - name: BarwlerGirl-1_Frame_35
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 258
+      width: 36
+      height: 48
+    spriteID: 2b1121d5d7237184e9ccb86461dbb749
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 258}
+  - name: BarwlerGirl-1_Frame_36
+    originalName: 
+    pivot: {x: 0.41666663, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 49
+      width: 24
+      height: 42
+    spriteID: 83c2f9100451a854ab9d9f52d9af2209
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 49}
+  - name: BarwlerGirl-1_Frame_37
+    originalName: 
+    pivot: {x: 0.64285713, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 4
+      width: 28
+      height: 37
+    spriteID: 9473319d8509403468f973675469249d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 4}
+  - name: BarwlerGirl-1_Frame_38
+    originalName: 
+    pivot: {x: 0.64285713, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 99
+      width: 28
+      height: 34
+    spriteID: 46c5d1cb739996d449c5b17bafa20e1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 99}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1769596063
+    name: BarwlerGirl-1
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: BarwlerGirl-1_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 33
+        y: 0
+        width: 24
+        height: 46
+      spriteId: bac5ff179f1de254ca4a303de544b0c0
+    - name: BarwlerGirl-1_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 33
+        y: 0
+        width: 24
+        height: 45
+      spriteId: f3a8861154aac2a4ab92b1f84b20d848
+    - name: BarwlerGirl-1_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 32
+        y: 0
+        width: 25
+        height: 44
+      spriteId: ed3d12565d594d146ab2bae2e90b013b
+    - name: BarwlerGirl-1_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 33
+        y: 0
+        width: 24
+        height: 45
+      spriteId: 71d264aea0abf714aad1b409403ced85
+    - name: BarwlerGirl-1_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 37
+        y: 0
+        width: 22
+        height: 46
+      spriteId: d1a6f7a69c066164fbcc1ccebbaacb73
+    - name: BarwlerGirl-1_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 38
+        y: 0
+        width: 19
+        height: 46
+      spriteId: 333c3e948c21daf4899d1f49d6f9b9b4
+    - name: BarwlerGirl-1_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 39
+        y: 0
+        width: 14
+        height: 46
+      spriteId: 446d3ac2f75cedc4b9db1166b6efa6a7
+    - name: BarwlerGirl-1_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 39
+        y: 0
+        width: 17
+        height: 47
+      spriteId: 445cd37a72c889348835ac1e6ee9f3e5
+    - name: BarwlerGirl-1_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 39
+        y: 0
+        width: 18
+        height: 47
+      spriteId: 23c73294484f42d428afa9ecc6cfd60a
+    - name: BarwlerGirl-1_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 37
+        y: 0
+        width: 24
+        height: 46
+      spriteId: 3057c0d38508f494f9b2f23c8b799e48
+    - name: BarwlerGirl-1_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 39
+        y: 0
+        width: 17
+        height: 46
+      spriteId: 8a906838ffc44c54fbea78e9fbead1da
+    - name: BarwlerGirl-1_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 39
+        y: 0
+        width: 14
+        height: 46
+      spriteId: b214363a4648b704b81d08e9621a1c05
+    - name: BarwlerGirl-1_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 40
+        y: 0
+        width: 14
+        height: 47
+      spriteId: 2052e10d40eeefd4dbdbe44c94927f3f
+    - name: BarwlerGirl-1_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 39
+        y: 0
+        width: 17
+        height: 47
+      spriteId: 5c8cf9bda05bad74f8f9f6a5fe4e007c
+    - name: BarwlerGirl-1_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 33
+        y: 0
+        width: 24
+        height: 46
+      spriteId: 04f1e462adafe01428e2b4521fa2c62d
+    - name: BarwlerGirl-1_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 29
+        y: 0
+        width: 22
+        height: 43
+      spriteId: 4f3854f942e49a640a7398628a70f3e6
+    - name: BarwlerGirl-1_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 22
+        y: 0
+        width: 30
+        height: 41
+      spriteId: d6ac114fc03ebe641950d5b9bfae4499
+    - name: BarwlerGirl-1_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 30
+        y: 0
+        width: 48
+        height: 38
+      spriteId: 5bfdb4c48b880e34094fe531087ceaf1
+    - name: BarwlerGirl-1_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 32
+        y: 0
+        width: 41
+        height: 38
+      spriteId: be427d1d4ea2e3e45bceb3b783e3398e
+    - name: BarwlerGirl-1_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 33
+        y: 0
+        width: 26
+        height: 45
+      spriteId: 20dcbe511e145fa469becebc4f16377a
+    - name: BarwlerGirl-1_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 32
+        y: 0
+        width: 50
+        height: 45
+      spriteId: 41058ecfd42980c4596305013c7fd3c8
+    - name: BarwlerGirl-1_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 32
+        y: 0
+        width: 45
+        height: 45
+      spriteId: f805bda173267df429e142ef83f3295c
+    - name: BarwlerGirl-1_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 35
+        y: 0
+        width: 27
+        height: 44
+      spriteId: ebec73f1e985e024a8af734c6b6e424f
+    - name: BarwlerGirl-1_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 38
+        y: 0
+        width: 46
+        height: 43
+      spriteId: 970082a09249a734392a91d5362f8995
+    - name: BarwlerGirl-1_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 38
+        y: 0
+        width: 43
+        height: 43
+      spriteId: e76a37de5ff39dd43aa878fcbbfa7663
+    - name: BarwlerGirl-1_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 34
+        y: 0
+        width: 22
+        height: 39
+      spriteId: 07b537049fa33e44a8435f3aebd93404
+    - name: BarwlerGirl-1_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 37
+        y: 1
+        width: 16
+        height: 44
+      spriteId: 7b26edf262921994dbc03b78cf331da1
+    - name: BarwlerGirl-1_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 34
+        y: 1
+        width: 19
+        height: 45
+      spriteId: 9fe4837eb17b8a24b98bdbc3fdbbf30b
+    - name: BarwlerGirl-1_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 29
+        y: 10
+        width: 26
+        height: 33
+      spriteId: 6c6957c6609e4d14a8544a7484ab0e4e
+    - name: BarwlerGirl-1_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 29
+        y: 10
+        width: 26
+        height: 33
+      spriteId: b0ef04eefb13de240ba943e908c56071
+    - name: BarwlerGirl-1_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 36
+        y: 9
+        width: 24
+        height: 38
+      spriteId: e86cdb278863b774a876c79bab431a57
+    - name: BarwlerGirl-1_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 37
+        y: 9
+        width: 26
+        height: 35
+      spriteId: 7da6a42317b194d4b80611b5c3500568
+    - name: BarwlerGirl-1_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 36
+        y: 13
+        width: 49
+        height: 32
+      spriteId: 54fbdd4a6c996d6468b2be734518b5a0
+    - name: BarwlerGirl-1_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 33
+        y: 13
+        width: 42
+        height: 33
+      spriteId: 0e42785bcd773c9459ecf26165639fe7
+    - name: BarwlerGirl-1_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 29
+        y: 10
+        width: 26
+        height: 33
+      spriteId: 0f419fc4e72ab4a45bc4e84cda74b881
+    - name: BarwlerGirl-1_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 33
+        y: 5
+        width: 36
+        height: 48
+      spriteId: 2b1121d5d7237184e9ccb86461dbb749
+    - name: BarwlerGirl-1_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 38
+        y: 7
+        width: 24
+        height: 42
+      spriteId: 83c2f9100451a854ab9d9f52d9af2209
+    - name: BarwlerGirl-1_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 30
+        y: 0
+        width: 28
+        height: 37
+      spriteId: 9473319d8509403468f973675469249d
+    - name: BarwlerGirl-1_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 30
+        y: 0
+        width: 28
+        height: 34
+      spriteId: 46c5d1cb739996d449c5b17bafa20e1d
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 63}
