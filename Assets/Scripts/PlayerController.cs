@@ -14,6 +14,10 @@ public class PlayerController : MonoBehaviour
     private bool _playerFaceRight = true;
     private bool _isWalk;
 
+    private int _punchCount = 0;
+    private float _timePunch = 0.75f;
+
+
 
     // Start is called before the first frame update
     void Start()
@@ -26,7 +30,31 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         PlayerMove();
+
         UpdateAnimator();
+
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            if(_isWalk  == false)
+            {
+
+                StartCoroutine(PunchController());
+
+                if (_punchCount < 2)
+                {
+                    PlayerJab();
+                    _punchCount++;
+                }
+                else if(_punchCount >= 2) 
+                {
+                    PlayerPunch();
+                    _punchCount = 0;
+                }
+
+                StopCoroutine(PunchController());
+            }
+        }
+
     }
 
     private void FixedUpdate()
@@ -67,4 +95,21 @@ public class PlayerController : MonoBehaviour
         _playerFaceRight = !_playerFaceRight;
         transform.Rotate(0f, 180, 0f);
     }
+
+    void PlayerJab()
+    {
+        _playerAnimator.SetTrigger("isJab");
+    }
+
+    void PlayerPunch()
+    {
+        _playerAnimator.SetTrigger("is_Punch");
+    }
+    
+    IEnumerator PunchController()
+    {
+        yield return new WaitForSeconds(_timePunch);
+        _punchCount = 0;
+    }
+
 }
